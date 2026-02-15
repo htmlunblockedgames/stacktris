@@ -1,0 +1,25 @@
+{
+  "name": "stacktris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "verify:coins": "node scripts/verify_coins_cheat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htmlunblockedgames/stacktris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/htmlunblockedgames/stacktris/issues"
+  },
+  "homepage": "https://github.com/htmlunblockedgames/stacktris#readme",
+  "devDependencies": {
+    "playwright": "^1.58.2"
+  }
+}

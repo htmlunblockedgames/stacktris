@@ -1,0 +1,8 @@
+webapp/extracted/
+webapp/index.data.meta.json
+output/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log
